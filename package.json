@@ -1,6 +1,6 @@
 {
   "name": "redux-re-do",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A strongly typed alternative to redux-thunk",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
