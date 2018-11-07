@@ -1,0 +1,23 @@
+{
+  "name": "redux-re-do",
+  "version": "1.0.0",
+  "description": "A strongly typed alternative to redux-thunk",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-nick/redux-re-do.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just-nick/redux-re-do/issues"
+  },
+  "homepage": "https://github.com/just-nick/redux-re-do#readme",
+  "devDependencies": {
+    "typescript": "^3.1.6"
+  }
+}
